@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: rgb(3, 16, 24);
+    color: rgb(255, 255, 255);
+}
+
+#head {
+    font-size: 3em;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(17, 110, 34);
+    padding-bottom: 30px;
+    border-bottom: solid white 3px;
+}
